@@ -1,7 +1,7 @@
 .env
 node_modules/
 .code-workspace
-.DS_Store
+*.DS_Store
 
 
 # GitHub Node Projects Ignore
@@ -136,4 +136,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-.DS_Store
+*.DS_Store
